@@ -1,5 +1,5 @@
 # **ASWIN SHRIRAM THIAGARAJAN**
-Flat A401, Radiance Mandarin, Chennai, Tamil Nadu, India - 600097.  |  +91-9445815395 | [Mail ID](aswin.shriramt@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/aswin-shriram-t-a4097043)
+Flat A401, Radiance Mandarin, Chennai, Tamil Nadu, India - 600097  |  +91-9445815395 | [Mail ID](aswin.shriramt@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/aswin-shriram-t-a4097043)
 
 ## OBJECTIVE
 To pursue Masters in Artificial Intelligence and yearn to acquire in-depth interdisciplinary skillsets. Deeply fascinated by the power of AI and endeavouring to explore the realms it can change ultimately. Looking forward to a challenging environment that gives generous opportunities for learning and solve real-world problems. Earnestly looking for research positions in your labs.
@@ -56,6 +56,6 @@ To pursue Masters in Artificial Intelligence and yearn to acquire in-depth inter
 ## EDUCATION
 ### SASTRA UNIVERSITY
 Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First Class with Distinction)	Jun 2012 – May 2016
-Specialization – Robotics | Honors – Artificial Intelligence & Expert Systems
-Relevant Courses – Programming in C, C++, Advanced Calculus, Linear Algebra, Transformations, Probability & Statistics, Operations Research, Mechatronics, Control Systems, Industrial Robotics
-Dean’s Merit List & Scholarship – (2012-2013 & 2014-2015)
+<br> Specialization – Robotics | Honors – Artificial Intelligence & Expert Systems
+<br> Relevant Courses – Programming in C, C++, Advanced Calculus, Linear Algebra, Transformations, Probability & Statistics, <br>Operations Research, Mechatronics, Control Systems, Industrial Robotics
+<br>Dean’s Merit List & Scholarship – (2012-2013 & 2014-2015)
