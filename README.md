@@ -1,4 +1,4 @@
-# <object align = "middle"> **ASWIN SHRIRAM THIAGARAJAN** </object>
+<object align = "middle"> **ASWIN SHRIRAM THIAGARAJAN** </object>
 Flat A401, Radiance Mandarin, Chennai, Tamil Nadu, India - 600097  |  +91-9445815395 | [Mail ID](aswin.shriramt@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/aswin-shriram-t-a4097043)
 
 ## OBJECTIVE
