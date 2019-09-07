@@ -55,7 +55,7 @@ To pursue Masters in Artificial Intelligence and yearn to acquire in-depth inter
 
 ## EDUCATION
 ### SASTRA UNIVERSITY
-Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First Class with Distinction)	Jun 2012 – May 2016
+Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First Class with Distinction)	&#09 &#09 Jun 2012 – May 2016
 <br> Specialization – Robotics | Honors – Artificial Intelligence & Expert Systems
-<br> Relevant Courses – Programming in C, C++, Advanced Calculus, Linear Algebra, Transformations, Probability & Statistics, <br>Operations Research, Mechatronics, Control Systems, Industrial Robotics
+<br> Relevant Courses – Programming in C, C++, Advanced Calculus, Linear Algebra, Transformations, Probability & Statistics, Operations Research, Mechatronics, Control Systems, Industrial Robotics
 <br>Dean’s Merit List & Scholarship – (2012-2013 & 2014-2015)
