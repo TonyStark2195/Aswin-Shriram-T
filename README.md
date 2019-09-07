@@ -1,4 +1,4 @@
-# <object align = "middle"> **ASWIN SHRIRAM THIAGARAJAN** </object>
+# <center> **ASWIN SHRIRAM THIAGARAJAN** </center>
 Flat A401, Radiance Mandarin, Chennai, Tamil Nadu, India - 600097  |  +91-9445815395 | [Mail ID](aswin.shriramt@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/aswin-shriram-t-a4097043)
 
 ## OBJECTIVE
@@ -54,8 +54,8 @@ To pursue Masters in Artificial Intelligence and yearn to acquire in-depth inter
 - **Crowd Surveillance Quadcopter:** Designed and built a Quadcopter, finalizing on the ‘+’ configuration after extensive analysis. An on-board camera was used to monitor the mass confluence of people and detect incidents. Images were processed in real-time image using MATLAB to identify potential threats like fire accidents and stampedes.
 
 ## EDUCATION
-### SASTRA UNIVERSITY
-Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First Class with Distinction) <object align = "right"> Jun 2012 – May 2016 </object>
+### SASTRA UNIVERSITY <object align = "right"> Jun 2012 – May 2016 </object>
+Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First Class with Distinction) 
 <br> Specialization – Robotics | Honors – Artificial Intelligence & Expert Systems
 <br> Relevant Courses – Programming in C, C++, Advanced Calculus, Linear Algebra, Transformations, Probability & Statistics, Operations Research, Mechatronics, Control Systems, Industrial Robotics
 <br> Dean’s Merit List & Scholarship – (2012-2013 & 2014-2015)
