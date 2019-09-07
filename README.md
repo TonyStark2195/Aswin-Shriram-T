@@ -48,3 +48,14 @@ To pursue Masters in Artificial Intelligence and yearn to acquire in-depth inter
 **Academic – Industrial Training**
 -	Got thorough exposure and worked hands-on in Precision Manufacturing (including Forging, High end CNC Machining, Welding, Chemical Processing) of Automobile Components.
 -	Learned six-sigma practices in manufacturing.
+
+### OTHER RESEARCH PROJECTS
+- **Beach Cleaning Autonomous Robot:** Built with Raspberry Pi, OpenCV & TensorFlow’s (TF) Deep Learning (CNN) models. Transfer Learning of TF’s ssd-mobilenet-v2-coco model to leverage the pre-trained features and train the last 3 layers on real-life images of trash. The autonomous robot had a unique Continuous Track design to efficiently traverse on the loose beach sands, detects trashes and collects them.
+- **Crowd Surveillance Quadcopter:** Designed and built a Quadcopter, finalizing on the ‘+’ configuration after extensive analysis. An on-board camera was used to monitor the mass confluence of people and detect incidents. Images were processed in real-time image using MATLAB to identify potential threats like fire accidents and stampedes.
+
+## EDUCATION
+### SASTRA UNIVERSITY
+Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First Class with Distinction)	Jun 2012 – May 2016
+Specialization – Robotics | Honors – Artificial Intelligence & Expert Systems
+Relevant Courses – Programming in C, C++, Advanced Calculus, Linear Algebra, Transformations, Probability & Statistics, Operations Research, Mechatronics, Control Systems, Industrial Robotics
+Dean’s Merit List & Scholarship – (2012-2013 & 2014-2015)
