@@ -64,14 +64,15 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 -	[Automated Leaf Disease Detection using CNN and IoT](https://thescipub.com/abstract/10.3844/ofsp.12711) (Journal of Computer Science)
 -	Diabetic Retinopathy diagnosis using Deep Learning Techniques* (Journal of Computer Science)
 -	Prediction of Load Bearing Capacity of Soil thickness using Deep Learning* (Journal of Computer Science)
--	Authoring a book titled [Hands on Reinforcement Learning in Python](https://drive.google.com/file/d/19fG10dYfNhrZeJ760fPsUq_eJOhyRDQ-/view) with Packt Publication 
+<br> *Under Review
+<br> -	Authoring a book titled [Hands on Reinforcement Learning in Python](https://drive.google.com/file/d/19fG10dYfNhrZeJ760fPsUq_eJOhyRDQ-/view) with Packt Publication 
 <br> [**Topics**](https://drive.google.com/file/d/1xDPZcgQTTJp18emlNoE1NNV5TQtKxQNP/view) 
 - Safe Reinforcement Learning for Autonomous vehicles
 - Deep Reinforcement Learning for NLP
 - Visual Model for Generalist Robots
 - Artificial General Intelligence
 - Model Agnostic Meta Learning (MAML)
-<br> *Under Review
+<br> 
 
 ## SKILLS
 
@@ -112,8 +113,8 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 -	AWS Innovate Conference 2019 on ML & AI
 -	TCS Hackathon Certificate – Digital Fleet Management IoT Hackathon
 -	Safari O’Reilly courses (Instructor led Training & Hands-on in Python)
-  -	Generative Adversarial Networks and Deep Reinforcement Learning algorithms using OpenAI gym and TensorFlow
-  - Image Recognition and Facial Recognition using PyTorch and OpenCV
+<t>  *	Generative Adversarial Networks and Deep Reinforcement Learning algorithms using OpenAI gym and TensorFlow
+<t>  * Image Recognition and Facial Recognition using PyTorch and OpenCV
 
 ## CO-CURRICULAR ACTIVITIES
 -	Participated in Google Cloud Platform International Conference (organized by TCS)
@@ -133,13 +134,15 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 
 ## COMMUNITY SERVICE & VOLUNTEERING WORK
 -	Provided lectures to government college students on “Importance of Data and What we can do with it?” emphasizing applications of AI
--	TCS Maitree – Visited underprivileged schools and taught students to use computers and basic MS office
--	TCS Purpose4Life – Volunteered in Beach cleanup activity
--	TCS Fit4Life – Participated in marathon to promote physical wellness | Blood Donor
+-	**TCS Maitree** – Visited underprivileged schools and taught students to use computers and basic MS office
+-	**TCS Purpose4Life** – Volunteered in Beach cleanup activity
+-	**TCS Fit4Life**
+<t>  * Participated in marathon to promote physical wellness
+<t>  * Blood Donor
 
 ## STRENGHTS
--	Fast learner and versatile.
--	Highly motivated and research driven individual.
--	Can provide quick and innovative solutions.
--	Analytical and thinking out of the box are my hallmark traits.
--	A great team player and a leader.
+-	Fast learner and versatile
+-	Highly motivated and research driven individual
+-	Can provide quick and innovative solutions
+-	Analytical and thinking out of the box are my hallmark traits
+-	A great team player and a leader
