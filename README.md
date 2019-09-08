@@ -136,9 +136,10 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 -	Provided lectures to government college students on “Importance of Data and What we can do with it?” emphasizing applications of AI
 -	**TCS Maitree** – Visited underprivileged schools and taught students to use computers and basic MS office
 -	**TCS Purpose4Life** – Volunteered in Beach cleanup activity
--	**TCS Fit4Life**
-    – Participated in marathon to promote physical wellness
+-  **TCS Fit4Life**
+    - Participated in marathon to promote physical wellness
     - Blood Donor
+
 ## STRENGHTS
 -	Fast learner and versatile
 -	Highly motivated and research driven individual
