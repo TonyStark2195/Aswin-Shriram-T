@@ -101,18 +101,18 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 - Cyber Physical Systems
 
 ## HONORS & AWARDS
--	**Extra Mile Award** – Innovation Hackathon Finalist of TCS and TATA Innovista 2018
--	**Star Team Award** – Dedication, on time delivery and excellence (TCS - General Electric)
+-	[**Extra Mile Award**](https://drive.google.com/file/d/1cGRJuvSiOZskCWq9maMuwx0pLm_42lhj/view) – Innovation Hackathon Finalist of TCS and TATA Innovista 2018
+-	[**Star Team Award**](https://drive.google.com/file/d/12P448lbw5mZkYFtgs2ODnRhJx3gL8uD0/view) – Dedication, on time delivery and excellence (TCS - General Electric)
 -	**Special Recognition Award** - Outstanding Innovation in Product Design & Development (NPD Lab)
 -	**Dean’s Merit list Award** – Ranked in top 10% of the department (2012-2013 & 2014-2015)
 
 ## COURSES & CERTIFICATIONS
--	Machine Learning Specialization (online) from Stanford University
--	TensorFlow and Deep Learning Specialization (online) from DeepLearning.ai
--	Google Cloud Platform and Machine Learning with GCP (online) from GOOGLE
--	Data Structures and Algorithms from NIIT
--	AWS Innovate Conference 2019 on ML & AI
--	TCS Hackathon Certificate – Digital Fleet Management IoT Hackathon
+-	[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/verify/2W2WAC2JV6V6) (online) from Stanford University
+-	[TensorFlow](https://www.coursera.org/account/accomplishments/verify/VUU37RK2YW5X) and [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/LE9ZX9J3EPV9) (online) from DeepLearning.ai
+-	[Google Cloud Platform and Machine Learning with GCP](https://www.coursera.org/account/accomplishments/verify/VEVW2QZ44FC3) (online) from GOOGLE
+-	[Data Structures and Algorithms](https://drive.google.com/file/d/1rIp0llhJULX0H4XJF9UVrQQA3pld0oUz/view) from NIIT
+-	[AWS Innovate Conference 2019](https://drive.google.com/file/d/1qhIM-S07_LQQH8jB1tKikbw_JPFB_wJP/view) on ML & AI
+-	[TCS Hackathon Certificate](https://drive.google.com/file/d/1tQ8TfPfcWTM-4vMw47_3fYh2KFCyVLdi/view) – Digital Fleet Management IoT Hackathon
 - Safari O’Reilly courses (Instructor led Training & Hands-on in Python)
     - Generative Adversarial Networks and Deep Reinforcement Learning algorithms using OpenAI gym and TensorFlow
     - Image Recognition and Facial Recognition using PyTorch and OpenCV
