@@ -112,14 +112,9 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 -	Data Structures and Algorithms from NIIT
 -	AWS Innovate Conference 2019 on ML & AI
 -	TCS Hackathon Certificate – Digital Fleet Management IoT Hackathon
-<ul>
-  <li> Safari O’Reilly courses (Instructor led Training & Hands-on in Python)
-<ul>
-    <li>Generative Adversarial Networks and Deep Reinforcement Learning algorithms using OpenAI gym and TensorFlow</li>
-    <li>Image Recognition and Facial Recognition using PyTorch and OpenCV</li>
-  </li>
-</ul>
-</ul>
+- Safari O’Reilly courses (Instructor led Training & Hands-on in Python)
+    - Generative Adversarial Networks and Deep Reinforcement Learning algorithms using OpenAI gym and TensorFlow
+    - Image Recognition and Facial Recognition using PyTorch and OpenCV
 
 ## CO-CURRICULAR ACTIVITIES
 -	Participated in Google Cloud Platform International Conference (organized by TCS)
@@ -141,15 +136,9 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 -	Provided lectures to government college students on “Importance of Data and What we can do with it?” emphasizing applications of AI
 -	**TCS Maitree** – Visited underprivileged schools and taught students to use computers and basic MS office
 -	**TCS Purpose4Life** – Volunteered in Beach cleanup activity
-<ul>
-  <li> <b> TCS Fit4Life </b>
-<ul>
-    <li>Participated in marathon to promote physical wellness</li>
-    <li>Blood Donor</li>
-  </li>
-</ul>
-</ul>
-
+-	**TCS Fit4Life**
+    – Participated in marathon to promote physical wellness
+    - Blood Donor
 ## STRENGHTS
 -	Fast learner and versatile
 -	Highly motivated and research driven individual
