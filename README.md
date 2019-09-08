@@ -59,3 +59,11 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 <br> Specialization – Robotics | Honors – Artificial Intelligence & Expert Systems
 <br> Relevant Courses – Programming in C, C++, Advanced Calculus, Linear Algebra, Transformations, Probability & Statistics, Operations Research, Mechatronics, Control Systems, Industrial Robotics
 <br> Dean’s Merit List & Scholarship – (2012-2013 & 2014-2015)
+
+## PAPERS & PUBLICATIONS
+-	[Automated Leaf Disease Detection using CNN and IoT](https://thescipub.com/abstract/10.3844/ofsp.12711) | Journal of Computer Science
+-	* Diabetic Retinopathy diagnosis using Deep Learning Techniques | Journal of Computer Science
+-	* Prediction of Load Bearing Capacity of Soil thickness using Deep Learning | Journal of Computer Science
+-	Authoring a book titled [Hands on Reinforcement Learning in Python](https://drive.google.com/file/d/19fG10dYfNhrZeJ760fPsUq_eJOhyRDQ-/view) with Packt Publication 
+[**Topics**](https://drive.google.com/file/d/1xDPZcgQTTJp18emlNoE1NNV5TQtKxQNP/view) - Safe Reinforcement Learning for Autonomous vehicles, Deep Reinforcement Learning for NLP, Visual Model for Generalist Robots, Artificial General Intelligence, Model Agnostic Meta Learning (MAML)
+*Under Review
