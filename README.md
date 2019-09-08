@@ -61,23 +61,85 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 <br> Dean’s Merit List & Scholarship – (2012-2013 & 2014-2015)
 
 ## PAPERS & PUBLICATIONS
--	[Automated Leaf Disease Detection using CNN and IoT](https://thescipub.com/abstract/10.3844/ofsp.12711) | Journal of Computer Science
--	Diabetic Retinopathy diagnosis using Deep Learning Techniques* | Journal of Computer Science
--	Prediction of Load Bearing Capacity of Soil thickness using Deep Learning* | Journal of Computer Science
+-	[Automated Leaf Disease Detection using CNN and IoT](https://thescipub.com/abstract/10.3844/ofsp.12711) (Journal of Computer Science)
+-	Diabetic Retinopathy diagnosis using Deep Learning Techniques* (Journal of Computer Science)
+-	Prediction of Load Bearing Capacity of Soil thickness using Deep Learning* (Journal of Computer Science)
 -	Authoring a book titled [Hands on Reinforcement Learning in Python](https://drive.google.com/file/d/19fG10dYfNhrZeJ760fPsUq_eJOhyRDQ-/view) with Packt Publication 
-<br> [**Topics**](https://drive.google.com/file/d/1xDPZcgQTTJp18emlNoE1NNV5TQtKxQNP/view) - Safe Reinforcement Learning for Autonomous vehicles, Deep Reinforcement Learning for NLP, Visual Model for Generalist Robots, Artificial General Intelligence, Model Agnostic Meta Learning (MAML)
+<br> [**Topics**](https://drive.google.com/file/d/1xDPZcgQTTJp18emlNoE1NNV5TQtKxQNP/view) 
+- Safe Reinforcement Learning for Autonomous vehicles
+- Deep Reinforcement Learning for NLP
+- Visual Model for Generalist Robots
+- Artificial General Intelligence
+- Model Agnostic Meta Learning (MAML)
 <br> *Under Review
 
 ## SKILLS
 
-| Programming Languages | : Python, C++, C, Embedded C, MATLAB & Simulink, Arduino, R, Scilab, PySpark,SAS, Node.js |
-| Robotics Framework | : ROS, Gazebo, AWS DeepRacer |
-| Robotics Hardware | : Raspberry Pi, Arduino |
-| Other Languages | : HTML, SQL, Bash scripting |
-| Data Base | : Elasticsearch, Redis |
-| Mechanical Modelling & Analysis Software | : AutoCAD, Pro-E (CREO), Solidworks, Siemens NX, ANSYS, EnergyPlus |
-| Python libraries/Frameworks | : OpenCV, Scikit-Image, Stanford CoreNLP, NLTK, Regex, Pandas, Dask, Scikit-Learn, NumPy, SciPy, Numba, Flask, Django, Matplotlib, Seaborn, Plotly,FbProphet, Pyramid ARIMA, PyTesseract |
-| AI/ML Frameworks | : Keras, TensorFlow, PyTorch, Fast.ai, OpenAI gym, H2o.ai |
-| Operating Systems | : macOS, Windows, Linux (Ubuntu, Raspbian) |
-| Containers | : Docker |
-| IDE | : Anaconda, Jupyter Notebook, Eclipse, Atom, Spyder, R Studio |
+| Programming Languages | Python, C++, C, Embedded C, MATLAB & Simulink, Arduino, R, Scilab, PySpark,SAS, Node.js |
+| Robotics Framework | ROS, Gazebo, AWS DeepRacer |
+| Robotics Hardware | Raspberry Pi, Arduino |
+| Other Languages | HTML, SQL, Bash scripting |
+| Data Base | Elasticsearch, Redis |
+| Mechanical Modelling & Analysis Software | AutoCAD, Pro-E (CREO), Solidworks, Siemens NX, ANSYS, EnergyPlus |
+| Python libraries/Frameworks | OpenCV, Scikit-Image, Stanford CoreNLP, NLTK, Regex, Pandas, Dask, Scikit-Learn, NumPy, SciPy, Numba, Flask, Django, Matplotlib, Seaborn, Plotly,FbProphet, Pyramid ARIMA, PyTesseract |
+| AI/ML Frameworks | Keras, TensorFlow, PyTorch, Fast.ai, OpenAI gym, H2o.ai |
+| Operating Systems | macOS, Windows, Linux (Ubuntu, Raspbian) |
+| Containers | Docker |
+| IDE | Anaconda, Jupyter Notebook, Eclipse, Atom, Spyder, R Studio |
+
+## AREAS OF INTEREST
+- Swarm Robotics
+- Reinforcement Learning
+- Deep Learning – GANs
+- Natural Language Generation
+- Artificial Intelligence
+- Computer Vision
+- Autonomous Vehicles - SLAM
+- Internet of Things
+- Cyber Physical Systems
+
+## HONORS & AWARDS
+-	**Extra Mile Award** – Innovation Hackathon Finalist of TCS and TATA Innovista 2018
+-	**Star Team Award** – Dedication, on time delivery and excellence (TCS - General Electric)
+-	**Special Recognition Award** - Outstanding Innovation in Product Design & Development (NPD Lab)
+-	**Dean’s Merit list Award** – Ranked in top 10% of the department (2012-2013 & 2014-2015)
+
+## COURSES & CERTIFICATIONS
+-	Machine Learning Specialization (online) from Stanford University
+-	TensorFlow and Deep Learning Specialization (online) from DeepLearning.ai
+-	Google Cloud Platform and Machine Learning with GCP (online) from GOOGLE
+-	Data Structures and Algorithms from NIIT
+-	AWS Innovate Conference 2019 on ML & AI
+-	TCS Hackathon Certificate – Digital Fleet Management IoT Hackathon
+-	Safari O’Reilly courses (Instructor led Training & Hands-on in Python)
+  -	Generative Adversarial Networks and Deep Reinforcement Learning algorithms using OpenAI gym and TensorFlow
+  - Image Recognition and Facial Recognition using PyTorch and OpenCV
+
+## CO-CURRICULAR ACTIVITIES
+-	Participated in Google Cloud Platform International Conference (organized by TCS)
+-	Hands-on experience in developing Digital Assistant and Chatbots using DialogFlow (Workshop organized by TCS)
+-	Member of Robotics Club at SASTRA (RCS) and Organized Robotics events for SAKSHAMA’15 (Mechanical Tech Colloquium)
+-	Member of Mechanical Engineers Club at SASTRA (MECASSO)
+-	Participated in IoT workshop for Home Automation using Node MCU, Arduino & Edge Networks (Lema Labs)
+-	Participated in International Conference on Modeling and Simulation (ICMS’ 15) (organized by SASTRA university)
+-	Participated in Accelerometer based Mobile Robotics Workshop (organized by SASTRA university)
+-	Presented IoT to prevent road accidents proposal at SAKSHAMA’13
+-	Conducted and taught session on Numerical solutions to Einstein’s Theory of Relativity Equations
+-	Participated in National Mathematics Olympiad 2012
+
+## EXTRA-CURRICULAR ACTIVITIES
+-	Badminton, Table Tennis player & High School Chess Champion
+-	Keyboard player
+
+## COMMUNITY SERVICE & VOLUNTEERING WORK
+-	Provided lectures to government college students on “Importance of Data and What we can do with it?” emphasizing applications of AI
+-	TCS Maitree – Visited underprivileged schools and taught students to use computers and basic MS office
+-	TCS Purpose4Life – Volunteered in Beach cleanup activity
+-	TCS Fit4Life – Participated in marathon to promote physical wellness | Blood Donor
+
+## STRENGHTS
+-	Fast learner and versatile.
+-	Highly motivated and research driven individual.
+-	Can provide quick and innovative solutions.
+-	Analytical and thinking out of the box are my hallmark traits.
+-	A great team player and a leader.
