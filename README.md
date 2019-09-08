@@ -62,8 +62,22 @@ Bachelor of Technology in **Mechanical Engineering** (GPA: 8.54/10.0 – First C
 
 ## PAPERS & PUBLICATIONS
 -	[Automated Leaf Disease Detection using CNN and IoT](https://thescipub.com/abstract/10.3844/ofsp.12711) | Journal of Computer Science
--	* Diabetic Retinopathy diagnosis using Deep Learning Techniques | Journal of Computer Science
--	* Prediction of Load Bearing Capacity of Soil thickness using Deep Learning | Journal of Computer Science
+-	Diabetic Retinopathy diagnosis using Deep Learning Techniques* | Journal of Computer Science
+-	Prediction of Load Bearing Capacity of Soil thickness using Deep Learning* | Journal of Computer Science
 -	Authoring a book titled [Hands on Reinforcement Learning in Python](https://drive.google.com/file/d/19fG10dYfNhrZeJ760fPsUq_eJOhyRDQ-/view) with Packt Publication 
-[**Topics**](https://drive.google.com/file/d/1xDPZcgQTTJp18emlNoE1NNV5TQtKxQNP/view) - Safe Reinforcement Learning for Autonomous vehicles, Deep Reinforcement Learning for NLP, Visual Model for Generalist Robots, Artificial General Intelligence, Model Agnostic Meta Learning (MAML)
-*Under Review
+<br> [**Topics**](https://drive.google.com/file/d/1xDPZcgQTTJp18emlNoE1NNV5TQtKxQNP/view) - Safe Reinforcement Learning for Autonomous vehicles, Deep Reinforcement Learning for NLP, Visual Model for Generalist Robots, Artificial General Intelligence, Model Agnostic Meta Learning (MAML)
+<br> *Under Review
+
+## SKILLS
+
+| Programming Languages | : Python, C++, C, Embedded C, MATLAB & Simulink, Arduino, R, Scilab, PySpark,SAS, Node.js |
+| Robotics Framework | : ROS, Gazebo, AWS DeepRacer |
+| Robotics Hardware | : Raspberry Pi, Arduino |
+| Other Languages | : HTML, SQL, Bash scripting |
+| Data Base | : Elasticsearch, Redis |
+| Mechanical Modelling & Analysis Software | : AutoCAD, Pro-E (CREO), Solidworks, Siemens NX, ANSYS, EnergyPlus |
+| Python libraries/Frameworks | : OpenCV, Scikit-Image, Stanford CoreNLP, NLTK, Regex, Pandas, Dask, Scikit-Learn, NumPy, SciPy, Numba, Flask, Django, Matplotlib, Seaborn, Plotly,FbProphet, Pyramid ARIMA, PyTesseract |
+| AI/ML Frameworks | : Keras, TensorFlow, PyTorch, Fast.ai, OpenAI gym, H2o.ai |
+| Operating Systems | : macOS, Windows, Linux (Ubuntu, Raspbian) |
+| Containers | : Docker |
+| IDE | : Anaconda, Jupyter Notebook, Eclipse, Atom, Spyder, R Studio |
